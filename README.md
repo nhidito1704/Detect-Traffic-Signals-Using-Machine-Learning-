@@ -1,4 +1,4 @@
-<h3 align="center" font-size= 14px;><b>ĐỒ ÁN MÔN HỌC</b></h3>
+<h1 align="center" font-size= 14px;><b>ĐỒ ÁN MÔN HỌC</b></h3>
 <h3 align="center" font-size= 14px;>MACHINE LEARNING - UIT</h3>
 
 # DETECT TRAFFIC SIGNS USING MACHINE LEARNING
