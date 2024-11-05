@@ -7,8 +7,8 @@
 Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
 Trần Nguyễn Yến Nhi | 21522429| 21522429@gm.uit.edu.vn | https://github.com/nhidito1704
-Trịnh Tuấn Tú |  | @gm.uit.edu.vn | https://github.com/TuanTu1007
-Phạm Việt Quang |  | @gm.uit.edu.vn | https://github.com/NguyenQuang282
+Trịnh Tuấn Tú | 21522747 | 21522747@gm.uit.edu.vn | https://github.com/TuanTu1007
+Phạm Việt Quang | 21522515 | 21522515@gm.uit.edu.vn | https://github.com/NguyenQuang282
 
 ### Đồ án cuối kì
 Phát hiện và nhận dạng biển báo giao thông đường bộ phổ biến ở Đức. 
